@@ -3,6 +3,7 @@ A web application for making grocery lists.
 
 #Overview
 ##Introduction
+
 My project idea is to create a program that will make use of user input as well as a small database to be used for keeping grocery lists. This program is meant to be a useful and fun program that makes the process of keeping a grocery list more engaging and intuitive. It can also make use of the user’s common purchases to make the app even more intuitive for them in future uses.
 Features
 	The program will be structured based on a user interface showing the user options to create a grocery list, which can then be populated with items based on the database. The database will consist of many commonly purchased items such as milk, eggs, bread, etc. that the user can choose from quickly. The database could also contain images to accompany the grocery items. When the user selects an item from this list, the item will then be added to their active grocery list.
