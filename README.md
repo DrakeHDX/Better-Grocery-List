@@ -3,19 +3,25 @@ A web application for making grocery lists.
 
 # Overview
 
-## Introduction
+### Introduction
 
 My project idea is to create a program that will make use of user input as well as a small database to be used for keeping grocery lists. This program is meant to be a useful and fun program that makes the process of keeping a grocery list more engaging and intuitive. It can also make use of the user’s common purchases to make the app even more intuitive for them in future uses.
-Features
-	The program will be structured based on a user interface showing the user options to create a grocery list, which can then be populated with items based on the database. The database will consist of many commonly purchased items such as milk, eggs, bread, etc. that the user can choose from quickly. The database could also contain images to accompany the grocery items. When the user selects an item from this list, the item will then be added to their active grocery list.
-	I also want to implement the ability for the user to add their own items into the database, which are then accessible for them later. For example, the existing database will contain an upload of common items as a preset for the user to choose from. If desired, the user can then add their own items and images to a local database to be recalled for future grocery lists.
-	Similar Software
-	Some similar software includes AnyList: Grocery Shopping List, available on the Apple App Store. This app provides similar features to the ones I’ve described, as well as the ability to create and share lists. Another similar program is Our Groceries Shopping List on the App Store, which also allows for creating shopping lists and list sharing.
-	Project Plans
-	My plan for this project is first to review/learn the necessary skills to actually complete the product. I am thinking that this program will be an HTML based web page hosted on a sort of web server, which also makes use of a database that I will create to retrieve the existing grocery items from.
-	I will start by creating the database itself and filling it with the appropriate items to be retrieved. I will then figure out how to get it hosted online to be used by my web page. I will then create the HTML user interface and implement the appropriate buttons and text boxes. I will then implement the functions that will allow the user to retrieve items from the database or to add their own, as well as display their active grocery list which consists of the user’s selected items from the existing database or ones that they’ve entered themselves.
-	I also want to implement the ability to delete or check off items from the active grocery list once the user has collected them in the store. This would allow deletion from the active list, but not from the database itself.
-	Conclusion
+### Features
+	
+The program will be structured based on a user interface showing the user options to create a grocery list, which can then be populated with items based on the database. The database will consist of many commonly purchased items such as milk, eggs, bread, etc. that the user can choose from quickly. The database could also contain images to accompany the grocery items. When the user selects an item from this list, the item will then be added to their active grocery list.
+	
+I also want to implement the ability for the user to add their own items into the database, which are then accessible for them later. For example, the existing database will contain an upload of common items as a preset for the user to choose from. If desired, the user can then add their own items and images to a local database to be recalled for future grocery lists.
+### Similar Software
+
+Some similar software includes AnyList: Grocery Shopping List, available on the Apple App Store. This app provides similar features to the ones I’ve described, as well as the ability to create and share lists. Another similar program is Our Groceries Shopping List on the App Store, which also allows for creating shopping lists and list sharing.
+### Project Plans
+
+My plan for this project is first to review/learn the necessary skills to actually complete the product. I am thinking that this program will be an HTML based web page hosted on a sort of web server, which also makes use of a database that I will create to retrieve the existing grocery items from.
+
+I will start by creating the database itself and filling it with the appropriate items to be retrieved. I will then figure out how to get it hosted online to be used by my web page. I will then create the HTML user interface and implement the appropriate buttons and text boxes. I will then implement the functions that will allow the user to retrieve items from the database or to add their own, as well as display their active grocery list which consists of the user’s selected items from the existing database or ones that they’ve entered themselves.
+	
+I also want to implement the ability to delete or check off items from the active grocery list once the user has collected them in the store. This would allow deletion from the active list, but not from the database itself.
+### Conclusion
 This web app aims to provide an engaging and useful way to make grocery lists that is simple to use while also being useful and can be used on the go while shopping. I feel that this idea would be something I would use while shopping, and I feel that others may find it useful as well.
 
 ## User Stories
