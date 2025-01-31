@@ -1,8 +1,9 @@
 # Better-Grocery-List
 A web application for making grocery lists.
 
-#Overview
-##Introduction
+Overview
+
+Introduction
 
 My project idea is to create a program that will make use of user input as well as a small database to be used for keeping grocery lists. This program is meant to be a useful and fun program that makes the process of keeping a grocery list more engaging and intuitive. It can also make use of the user’s common purchases to make the app even more intuitive for them in future uses.
 Features
