@@ -88,3 +88,5 @@ Multiple lists
 End user
 User creates more than one list
 The app shows both lists separately and allows for edits on each one.
+# Block Diagram
+![Block diagram](https://github.com/user-attachments/assets/6f3df2ab-f004-4aea-b19b-5142aacb35a1)
