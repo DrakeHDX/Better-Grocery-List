@@ -90,3 +90,11 @@ User creates more than one list
 The app shows both lists separately and allows for edits on each one.
 # Block Diagram
 ![Block diagram](https://github.com/user-attachments/assets/6f3df2ab-f004-4aea-b19b-5142aacb35a1)
+
+## UML Diagram
+
+![UML Diagram](https://github.com/user-attachments/assets/2cdfcb7a-2c5c-4cb9-9556-35cc5b78c951)
+
+## Wireframe
+
+![Better Grocery List Wire Frame](https://github.com/user-attachments/assets/d5f6ecfb-4e73-4eb5-91ad-a69480dfb44c)
