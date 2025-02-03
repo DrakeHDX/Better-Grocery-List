@@ -1,9 +1,9 @@
 # Better-Grocery-List
 A web application for making grocery lists.
 
-#Contents
+### Contents
 
-#### [Introduction]([url](https://github.com/DrakeHDX/Better-Grocery-List#introduction))
+[Introduction]([url](https://github.com/DrakeHDX/Better-Grocery-List#introduction))
 
 
 # Overview
