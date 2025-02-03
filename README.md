@@ -17,6 +17,8 @@ A web application for making grocery lists.
 
 [Use Cases](#use-cases)
 
+[Block Diagram](#block-diagram)
+
 [UML Diagram](#UML-Diagram)
 
 [Wireframe](#wireframe)
@@ -110,6 +112,7 @@ Multiple lists
 End user
 User creates more than one list
 The app shows both lists separately and allows for edits on each one.
+
 # Block Diagram
 ![Block diagram](https://github.com/user-attachments/assets/6f3df2ab-f004-4aea-b19b-5142aacb35a1)
 
