@@ -4,6 +4,14 @@ A web application for making grocery lists.
 ### Contents
 
 [Introduction](#introduction)
+[Features](#features)
+[Similar Software](#Similar-Software)
+[Project Plans](#Project-Plans)
+[Conclusion](#conclusion)
+[User Stories](#user-stories)
+[Use Cases](#use-cases)
+[UML Diagram](#UML-Diagram)
+[Wireframe](#wireframe)
 
 
 # Overview
