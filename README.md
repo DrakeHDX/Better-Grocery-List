@@ -3,7 +3,7 @@ A web application for making grocery lists.
 
 ### Contents
 
-[Introduction]([url](https://github.com/DrakeHDX/Better-Grocery-List#introduction))
+[Introduction](https://github.com/DrakeHDX/Better-Grocery-List?tab=readme-ov-file#introduction-1)
 
 
 # Overview
