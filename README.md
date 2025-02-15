@@ -123,3 +123,13 @@ The app shows both lists separately and allows for edits on each one.
 ## Wireframe
 
 ![Better Grocery List Wire Frame](https://github.com/user-attachments/assets/d5f6ecfb-4e73-4eb5-91ad-a69480dfb44c)
+
+## Project Requirements Table
+
+| Requirement Number  | Description |
+| ------------- | ------------- |
+| 1 | The software shall utilize a database that the user can select grocery items from  |
+| 2 | The software shall allow users to create an active list  |
+| 3 | The software shall allow users to add their own custom items to their list |
+| 4 | The software shall allow users to remove or check off items from their active list when they want |
+| 5 | The software shall allow users to rearrange items in the list |
