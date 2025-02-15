@@ -128,7 +128,7 @@ The app shows both lists separately and allows for edits on each one.
 
 ## Project Requirements Table
 
-| Requirement Number  | Description |
+| Requirement ID  | Description |
 | ------------- | ------------- |
 | 1 | The software shall utilize a database that the user can select grocery items from  |
 | 2 | The software shall allow users to create an active list  |
