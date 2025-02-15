@@ -23,6 +23,8 @@ A web application for making grocery lists.
 
 [Wireframe](#wireframe)
 
+[Project Requirements Table](#project-requirements-table)
+
 
 
 # Overview
