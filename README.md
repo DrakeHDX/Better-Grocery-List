@@ -25,6 +25,8 @@ A web application for making grocery lists.
 
 [Project Requirements Table](#project-requirements-table)
 
+[Entity Relationship Diagram](#entity-relationship-diagram)
+
 
 
 # Overview
@@ -135,3 +137,7 @@ The app shows both lists separately and allows for edits on each one.
 | 3 | The software shall allow users to add their own custom items to their list |
 | 4 | The software shall allow users to remove or check off items from their active list when they want |
 | 5 | The software shall allow users to rearrange items in the list |
+
+## Entity Relationship Diagram
+
+![ERD](https://github.com/user-attachments/assets/66e65e47-524a-467d-8d6c-40193bce647a)
