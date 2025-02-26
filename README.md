@@ -27,6 +27,8 @@ A web application for making grocery lists.
 
 [Entity Relationship Diagram](#entity-relationship-diagram)
 
+[UML Class Diagram](#uml-class-diagram)
+
 
 
 # Overview
@@ -141,3 +143,7 @@ The app shows both lists separately and allows for edits on each one.
 ## Entity Relationship Diagram
 
 ![ERD](https://github.com/user-attachments/assets/66e65e47-524a-467d-8d6c-40193bce647a)
+
+## UML Class Diagram
+
+![UML Class Diagram](https://github.com/user-attachments/assets/8bf02b89-4dd8-4c7b-bcc9-bf049960612e)
