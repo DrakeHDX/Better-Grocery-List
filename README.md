@@ -147,3 +147,9 @@ The app shows both lists separately and allows for edits on each one.
 ## UML Class Diagram
 
 ![UML Class Diagram](https://github.com/user-attachments/assets/8bf02b89-4dd8-4c7b-bcc9-bf049960612e)
+
+### Data Access Layer
+
+![Grocery code](https://github.com/user-attachments/assets/8d6c32bc-3586-4c87-a770-958f226dbb54)
+
+![HTTP Response](https://github.com/user-attachments/assets/259f666e-222f-49d8-a0bc-cd3d1a0eefff)
