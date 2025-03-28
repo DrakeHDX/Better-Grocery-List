@@ -29,7 +29,7 @@ A web application for making grocery lists.
 
 [UML Class Diagram](#uml-class-diagram)
 
-
+[Data Access Layer](#data-access-layer)
 
 # Overview
 
